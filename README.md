@@ -26,7 +26,7 @@ This project is designed to scrape data from Instagram user profiles, including 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/instagram-web-scraping.git
+    git clone https://github.com/Dhiraj274/instagram-web-scraping.git
     cd instagram-web-scraping
     ```
 
